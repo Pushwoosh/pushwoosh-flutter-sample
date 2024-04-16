@@ -13,7 +13,7 @@
 ```
 $ flutter packages get
 ```
-### 2. Open lin -> Main.dart and add your App ID and FCM Sender ID
+### 2. Open lib -> Main.dart and add your App ID and FCM Sender ID.
 
 ```
 /**
@@ -25,3 +25,5 @@ $ flutter packages get
  */
 Pushwoosh.initialize({"app_id": "XXXXX-XXXXX", "sender_id": "XXXXXXXXXXXX"});
 ```
+
+### 3. Add 'google-services.json' in android -> app folder.
