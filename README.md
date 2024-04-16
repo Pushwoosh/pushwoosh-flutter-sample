@@ -7,3 +7,9 @@
 
 ### Android
  <img src="https://github.com/Pushwoosh/pushwoosh-flutter-sample/blob/main/Screenshots/Android_1.png" alt="Alt text" width="300"> <img src="https://github.com/Pushwoosh/pushwoosh-flutter-sample/blob/main/Screenshots/Android_2.png" alt="Alt text" width="300">
+
+### 1. Install the package from the command line:
+
+```
+$ flutter packages get
+```
