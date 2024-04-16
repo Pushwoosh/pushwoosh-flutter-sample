@@ -13,7 +13,7 @@
 ```
 $ flutter packages get
 ```
-### 2. Open lib -> Main.dart and add your App ID and FCM Sender ID.
+### 2. Open lib -> main.dart and add your App ID and FCM Sender ID.
 
 ```
 /**
