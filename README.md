@@ -26,7 +26,7 @@ $ flutter packages get
 Pushwoosh.initialize({"app_id": "XXXXX-XXXXX", "sender_id": "XXXXXXXXXXXX"});
 ```
 
-### 3. Add 'google-services.json' in android -> app folder.
+### 3. Add 'google-services.json' file in android -> app folder.
 
 ## The guide for SDK integration is available on Pushwoosh [website](https://docs.pushwoosh.com/platform-docs/pushwoosh-sdk/cross-platform-frameworks/flutter).
 
