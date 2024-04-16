@@ -1,0 +1,31 @@
+PODS:
+  - Flutter (1.0.0)
+  - pushwoosh_flutter (2.2.15):
+    - Flutter
+    - PushwooshXCFramework
+  - PushwooshXCFramework (6.5.9):
+    - PushwooshXCFramework/Core (= 6.5.9)
+  - PushwooshXCFramework/Core (6.5.9)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - pushwoosh_flutter (from `.symlinks/plugins/pushwoosh_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PushwooshXCFramework
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  pushwoosh_flutter:
+    :path: ".symlinks/plugins/pushwoosh_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  pushwoosh_flutter: fb8deeaea01f9fcebffc598f70486b874beec7a1
+  PushwooshXCFramework: 260477f03cda9869aeff93f6d2a5148b11870f8b
+
+PODFILE CHECKSUM: ca8ae8b861fae0eb4bcdc69b0063c8b211ad64a6
+
+COCOAPODS: 1.13.0
